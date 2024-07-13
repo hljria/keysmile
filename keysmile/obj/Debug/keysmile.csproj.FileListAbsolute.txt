@@ -1,0 +1,15 @@
+D:\sources\keysmile\keysmile\bin\Debug\keysmile.exe.config
+D:\sources\keysmile\keysmile\bin\Debug\keysmile.exe
+D:\sources\keysmile\keysmile\bin\Debug\keysmile.pdb
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.csproj.AssemblyReference.cache
+D:\sources\keysmile\keysmile\obj\Debug\MainWindow.g.cs
+D:\sources\keysmile\keysmile\obj\Debug\App.g.cs
+D:\sources\keysmile\keysmile\obj\Debug\keysmile_MarkupCompile.cache
+D:\sources\keysmile\keysmile\obj\Debug\keysmile_MarkupCompile.lref
+D:\sources\keysmile\keysmile\obj\Debug\MainWindow.baml
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.g.resources
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.Properties.Resources.resources
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.csproj.GenerateResource.cache
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.csproj.CoreCompileInputs.cache
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.exe
+D:\sources\keysmile\keysmile\obj\Debug\keysmile.pdb
